@@ -13,6 +13,10 @@ I'm a passionate Flutter developer dedicated to crafting beautiful, high-perform
 - Firebase Services & Cloud Firestore
 - CI/CD: GitHub Actions, Codemagic
 
+🔗 Languages and Tools:
+
+flutter dart firebase bootstrap chartjs angular css3 express figma git graphql html5 javascript c# linux mariadb materialize mongodb mysql nginx nodejs photoshop php postgresql react redux tailwind xd android ios vscode xcode
+
 💡 Passionate about writing clean, efficient, and scalable code, I always strive to enhance performance, optimize UI/UX, and create seamless digital experiences.
 
 📌 Let’s Collaborate! I’m always open to contributing to open-source projects, collaborating with developers, and exploring innovative technologies.
