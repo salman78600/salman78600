@@ -1,21 +1,11 @@
 ## Hi there 👋 I'm Saad Salman
 
-I'm a passionate Flutter developer dedicated to crafting beautiful, high-performance cross-platform apps. With a strong background in mobile & web development, I build solutions that combine elegant design with robust functionality.
-
-🔹 Key Expertise:
-
-- Flutter Application Development (Frontend & Backend)
-- Design: Material Design, Adaptive Layouts, Responsive UI
-- State Management: Bloc, Provider, Riverpod
-- REST API Integration & Backend Communication
-- Clean Architecture, SOLID Principles
-- Unit, Widget & Integration Testing
-- Firebase Services & Cloud Firestore
-- CI/CD: GitHub Actions, Codemagic
+I’m a full-stack software engineer with a passion for building scalable, high-performance web and mobile applications. Over the last five years, I have architected and delivered end-to-end solutions, including real-time analytics dashboards, fintech payment integrations, and cross-platform mobile apps, serving thousands of users across various industries.
+My core strengths lie in frontend-heavy ecosystems such as Angular, TypeScript, and Flutter, complemented by backend expertise in Node.js, REST APIs, and Firebase. I am also experienced in CI/CD pipelines, test automation, and working in agile product teams. From streamlining KPI management systems to optimizing real estate app UX and payments, I bring a product-focused, results-driven mindset to every project.
 
 🔗 Languages and Tools:
 
-flutter dart firebase bootstrap chartjs angular css3 express figma git graphql html5 javascript c# linux mariadb materialize mongodb mysql nginx nodejs photoshop php postgresql react redux tailwind xd android ios vscode xcode
+javascript typescript flutter dart angular firebase  bootstrap chartjs angular css3 express figma git graphql html5 javascript c# linux mariadb materialize mongodb mysql nginx nodejs photoshop php postgresql react redux tailwind xd android ios vscode xcode
 
 💡 Passionate about writing clean, efficient, and scalable code, I always strive to enhance performance, optimize UI/UX, and create seamless digital experiences.
 
