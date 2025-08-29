@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Saad Salman
 
-I’m a full-stack software engineer with a passion for building scalable, high-performance web and mobile applications. Over the last five years, I have architected and delivered end-to-end solutions, including real-time analytics dashboards, fintech payment integrations, and cross-platform mobile apps, serving thousands of users across various industries.
-My core strengths lie in frontend-heavy ecosystems such as Angular, TypeScript, and Flutter, complemented by backend expertise in Node.js, REST APIs, and Firebase. I am also experienced in CI/CD pipelines, test automation, and working in agile product teams. From streamlining KPI management systems to optimizing real estate app UX and payments, I bring a product-focused, results-driven mindset to every project.
+I’m a Flutter developer with a strong background in building scalable, high-performance mobile applications. Over the last five years, I’ve designed and delivered cross-platform apps and fintech payment solutions that serve thousands of users across industries. My expertise centers on Flutter, Dart, and frontend-focused ecosystems, complemented by backend experience with Node.js, REST APIs, and Firebase. I’m skilled in architecting robust mobile apps, optimizing user experiences, and implementing CI/CD pipelines with test automation. From streamlining KPI management systems to enhancing app UX and payments, I bring a product-focused, results-driven mindset to every project, ensuring smooth delivery from concept to launch.
 
 🔗 Languages and Tools:
 
