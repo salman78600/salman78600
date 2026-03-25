@@ -19,13 +19,18 @@
 
 ## About
 
-6+ years delivering high-performance mobile applications with Flutter & Dart — clean UI, scalable architecture, and real business impact.
+6+ years delivering high-performance mobile applications with Flutter & Dart
+across iOS & Android — clean UI, scalable architecture, and real business impact.
 
-End-to-end ownership from concept to App Store & Play Store launch. Deep expertise in animations, state management with Provider/BLoC, and scalable architectures built on Clean Architecture & MVVM.
+End-to-end ownership from concept to App Store & Play Store launch.
+Deep expertise in animations, state management (Provider · BLoC),
+and scalable architectures built on Clean Architecture & MVVM principles.
 
-Back-end proficient in Node.js & Python — designing REST APIs that power fast, reliable mobile experiences.
+Back-end proficient in Node.js & Python — designing REST APIs
+that power fast, reliable, and production-ready mobile experiences.
 
-Clean code. Clear communication. Consistent delivery. Full ownership — every project, every time.
+Clean code. Clear communication. Consistent delivery.
+Full ownership — every project, every time.
 
 ---
 
