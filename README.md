@@ -1,64 +1,96 @@
 <div align="center">
 
-# Hi there, I'm SAAD SALMAN 👋
-
-### Flutter & Mobile App Developer | iOS & Android
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad107/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](imsalman5873@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Saad%20Salman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Mobile%20App%20Developer&descAlignY=55&descSize=20" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
+
+### 👋 Hi, I'm **Saad Salman**
+### 🚀 Flutter & Mobile App Developer | 6+ Years | iOS & Android
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad107)
+[![Gmail](https://img.shields.io/badge/Gmail-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imsalman5873@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-salman78600-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salman78600)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
 
 ```dart
-class FlutterDeveloper {
-  String name     = "Your Name";
-  String role     = "Flutter & Mobile App Developer";
-  String platform = "iOS & Android";
-  int    years    = 6;
+class SaadSalman {
 
-  List<String> skills = [
-    "Flutter", "Dart", "Firebase",
-    "BLoC", "Provider", "REST API",
-    "Clean Architecture", "MVVM",
-    "Node.js", "Python"
+  final String name     = "Saad Salman";
+  final String role     = "Flutter & Mobile App Developer";
+  final String platform = "iOS & Android";
+  final String exp      = "6+ Years";
+
+  final Map<String, List<String>> skills = {
+    "Mobile"       : ["Flutter", "Dart", "iOS", "Android"],
+    "State Mgmt"   : ["BLoC", "GetX", "Provider", "Riverpod"],
+    "Backend"      : ["Node.js", "Python", "REST API", "Firebase"],
+    "Architecture" : ["Clean Architecture", "MVVM", "MVC"],
+    "Frontend"     : ["Angular", "HTML", "CSS", "JavaScript"],
+    "Tools"        : ["Git", "GitHub", "Postman", "Figma"],
+  };
+
+  final List<String> currentFocus = [
+    "Building production-ready Flutter apps 📱",
+    "Writing clean & scalable architecture 🧹",
+    "Delivering beautiful UI & smooth UX ✨",
+    "Full product ownership from idea to launch 🚀",
   ];
 
-  String passion = "Turning ideas into production-ready apps 🚀";
+  String get passion =>
+    "Turning ideas into real apps that people love 💙";
+
+  bool get availableForWork => true; // Always open! 💼
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
 
 ### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-### 🔥 Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🔥 State Management
+![BLoC](https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00D4FF?style=for-the-badge&logo=flutter&logoColor=white)
+
+### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🏗️ Architecture & State
-![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-FF6C37?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge)
+### 🌐 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
@@ -66,46 +98,24 @@ class FlutterDeveloper {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=salman78600&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salman78600&theme=tokyonight&hide_border=true" width="48%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman78600&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 ---
 
-## 🏆 What I Build
+## 🏆 GitHub Trophies
 
-```
-✅ Production-ready Flutter apps (iOS & Android)
-✅ Clean Architecture & MVVM structure
-✅ BLoC & Provider state management
-✅ Firebase integration (Auth, Firestore, FCM)
-✅ REST API integration & Node.js backends
-✅ App Store & Play Store deployment
-✅ Performance optimization & clean UI
-```
+<div align="center">
 
----
+![Trophies](https://github-profile-trophy.vercel.app/?username=salman78600&theme=tokyonight&no-frame=true&row=1&column=7)
 
-## 📱 Featured Projects
-
-### 🔥 IT desk
-> IT desk is a platform that allows organizations to log, track, and resolve IT-related issues or service requests efficiently. It centralizes communication between users and IT support teams, ensuring accountability and faster resolution. With features like ticket prioritization, automation, and reporting, it improves productivity and enhances user satisfaction.
-- **Tech:** Flutter • BLoC • Firebase • REST API
-- [📱 App Store](https://play.google.com/store/apps/details?id=com.alburj.ae.ticket_system_v1&hl=en) | [🤖 Play Store](https://play.google.com/store/apps/details?id=com.alburj.ae.ticket_system_v1&hl=en)
-
-### ⚡ Project Two
-> Short description of your second app
-- **Tech:** Flutter • Provider • Node.js • MVVM
-- [📱 App Store](#) | [🤖 Play Store](#) | [💻 Code](#)
-
-### 🚀 Project Three
-> Short description of your third app
-- **Tech:** Flutter • Clean Architecture • Firebase
-- [📱 App Store](#) | [🤖 Play Store](#) | [💻 Code](#)
+</div>
 
 ---
 
@@ -113,19 +123,15 @@ class FlutterDeveloper {
 
 <div align="center">
 
-**Open for freelance projects & full-time opportunities**
+### 💼 Open for Freelance Projects & Full-Time Opportunities
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad107)
+[![Gmail](https://img.shields.io/badge/Gmail-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imsalman5873@gmail.com)
 
 ---
 
-<div align="center">
-
-### 💬 *"Clean code. Beautiful UI. Real impact."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge)
+⭐️ **If you like my work, consider giving a star to my repos!**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=120&section=footer" />
