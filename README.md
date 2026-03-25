@@ -48,24 +48,23 @@ and a pixel-perfect UI that users love.
 // My Developer DNA 🧬
 
 const developer = {
-  "name"       : "Saad Salman",
-  "title"      : "Flutter & Mobile App Developer",
-  "experience" : "6+ Years",
-  "platforms"  : ["iOS", "Android"],
-  "expertise"  : {
-    "mobile"        : ["Flutter", "Dart"],
-    "state_mgmt"    : ["BLoC", "GetX", "Provider", "Riverpod"],
-    "backend"       : ["Firebase", "Node.js", "REST API", "Python"],
-    "architecture"  : ["Clean Architecture", "MVVM", "MVC"],
-    "frontend"      : ["Angular", "HTML", "CSS", "JavaScript"],
+  name       : "Saad Salman",
+  title      : "Flutter & Mobile App Developer",
+  experience : "6+ Years",
+  platforms  : ["iOS", "Android"],
+  expertise  : {
+    mobile        : ["Flutter", "Dart"],
+    state_mgmt    : ["BLoC", "GetX", "Provider", "Riverpod"],
+    backend       : ["Firebase", "Node.js", "REST API", "Python"],
+    architecture  : ["Clean Architecture", "MVVM", "MVC"],
+    frontend      : ["Angular", "HTML", "CSS", "JavaScript"],
   },
-  "soft_skills"  : ["Problem Solver 🧩", "Team Player 🤝",
-                    "Fast Learner ⚡", "Detail Oriented 🔍"],
-  "currently"    : "Building something awesome... 🚀",
-  "available"    : true, // Open for work! 💼
+  soft_skills  : ["Problem Solver 🧩", "Team Player 🤝",
+                  "Fast Learner ⚡", "Detail Oriented 🔍"],
+  currently    : "Building something awesome... 🚀",
+  available    : true, // Open for work! 💼
 };
 ```
-
 ---
 
 ### ⚡ Fun Facts About Me
