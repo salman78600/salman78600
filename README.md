@@ -4,9 +4,8 @@
 
 ### Flutter & Mobile App Developer | iOS & Android
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad107/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](imsalman5873@gmail.com)
 
 </div>
 
@@ -93,10 +92,10 @@ class FlutterDeveloper {
 
 ## 📱 Featured Projects
 
-### 🔥 Project One
-> Short description of your best app
+### 🔥 IT desk
+> IT desk is a platform that allows organizations to log, track, and resolve IT-related issues or service requests efficiently. It centralizes communication between users and IT support teams, ensuring accountability and faster resolution. With features like ticket prioritization, automation, and reporting, it improves productivity and enhances user satisfaction.
 - **Tech:** Flutter • BLoC • Firebase • REST API
-- [📱 App Store](#) | [🤖 Play Store](#) | [💻 Code](#)
+- [📱 App Store](https://play.google.com/store/apps/details?id=com.alburj.ae.ticket_system_v1&hl=en) | [🤖 Play Store](https://play.google.com/store/apps/details?id=com.alburj.ae.ticket_system_v1&hl=en)
 
 ### ⚡ Project Two
 > Short description of your second app
