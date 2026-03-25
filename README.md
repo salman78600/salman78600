@@ -17,6 +17,8 @@
 
 </div>
 
+---
+
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -37,14 +39,13 @@ and a pixel-perfect UI that users love.
 - ✅ I stay updated with the **latest Flutter ecosystem**
 
 🌍 Worked on **20+ apps** across different industries:
-> 🛒 E-Commerce | 💊 HealthTech | 💰 FinTech |
-> 🎓 EdTech | 🚗 Ride-Sharing | 🏠 Real Estate
+> 🛒 E-Commerce | 💊 HealthTech | 💰 FinTech | 🎓 EdTech | 🚗 Ride-Sharing | 🏠 Real Estate
 
 📬 Always open for exciting projects & collaborations!
 
 ---
 
-```dart
+```javascript
 // My Developer DNA 🧬
 
 const developer = {
@@ -59,11 +60,11 @@ const developer = {
     architecture  : ["Clean Architecture", "MVVM", "MVC"],
     frontend      : ["Angular", "HTML", "CSS", "JavaScript"],
   },
-  soft_skills  : ["Problem Solver 🧩", "Team Player 🤝",
-                  "Fast Learner ⚡", "Detail Oriented 🔍"],
+  soft_skills  : ["Problem Solver 🧩", "Team Player 🤝", "Fast Learner ⚡", "Detail Oriented 🔍"],
   currently    : "Building something awesome... 🚀",
   available    : true,
 };
+```
 
 ---
 
@@ -78,9 +79,9 @@ const developer = {
 | 🎮 | Gamer when not coding |
 | 💙 | **Flutter** is my superpower |
 
-## 🛠️ Tech Stack & Skills
+---
 
-<div>
+## 🛠️ Tech Stack & Skills
 
 ### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -102,10 +103,10 @@ const developer = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🌐 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -113,8 +114,6 @@ const developer = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
 
 ---
 
@@ -130,6 +129,8 @@ const developer = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman78600&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
+
+---
 
 ## 📫 Let's Connect
 
