@@ -44,7 +44,7 @@ and a pixel-perfect UI that users love.
 
 ---
 
-```javascript
+```dart
 // My Developer DNA 🧬
 
 const developer = {
