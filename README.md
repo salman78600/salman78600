@@ -17,46 +17,71 @@
 
 </div>
 
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+### 👨‍💻 Saad Salman — Flutter Developer
+
+🎯 With **6+ years** of hands-on experience, I craft high-performance,
+visually stunning mobile applications for **iOS & Android** using Flutter.
+
+💡 I don't just write code — I **architect solutions**.
+Every app I build follows clean principles, scalable structure,
+and a pixel-perfect UI that users love.
+
+🔥 What makes me different?
+- ✅ I take an idea from **zero → production**
+- ✅ I write code that's **clean, testable & maintainable**
+- ✅ I deliver apps that **perform fast & look beautiful**
+- ✅ I stay updated with the **latest Flutter ecosystem**
+
+🌍 Worked on **20+ apps** across different industries:
+> 🛒 E-Commerce | 💊 HealthTech | 💰 FinTech |
+> 🎓 EdTech | 🚗 Ride-Sharing | 🏠 Real Estate
+
+📬 Always open for exciting projects & collaborations!
+
 ---
 
-## 🧑‍💻 About Me
-
 ```dart
-class SaadSalman {
+// My Developer DNA 🧬
 
-  final String name     = "Saad Salman";
-  final String role     = "Flutter & Mobile App Developer";
-  final String platform = "iOS & Android";
-  final String exp      = "6+ Years";
-
-  final Map<String, List<String>> skills = {
-    "Mobile"       : ["Flutter", "Dart", "iOS", "Android"],
-    "State Mgmt"   : ["BLoC", "GetX", "Provider", "Riverpod"],
-    "Backend"      : ["Node.js", "Python", "REST API", "Firebase"],
-    "Architecture" : ["Clean Architecture", "MVVM", "MVC"],
-    "Frontend"     : ["Angular", "HTML", "CSS", "JavaScript"],
-    "Tools"        : ["Git", "GitHub", "Postman", "Figma"],
-  };
-
-  final List<String> currentFocus = [
-    "Building production-ready Flutter apps 📱",
-    "Writing clean & scalable architecture 🧹",
-    "Delivering beautiful UI & smooth UX ✨",
-    "Full product ownership from idea to launch 🚀",
-  ];
-
-  String get passion =>
-    "Turning ideas into real apps that people love 💙";
-
-  bool get availableForWork => true; // Always open! 💼
-}
+const developer = {
+  "name"       : "Saad Salman",
+  "title"      : "Flutter & Mobile App Developer",
+  "experience" : "6+ Years",
+  "platforms"  : ["iOS", "Android"],
+  "expertise"  : {
+    "mobile"        : ["Flutter", "Dart"],
+    "state_mgmt"    : ["BLoC", "GetX", "Provider", "Riverpod"],
+    "backend"       : ["Firebase", "Node.js", "REST API", "Python"],
+    "architecture"  : ["Clean Architecture", "MVVM", "MVC"],
+    "frontend"      : ["Angular", "HTML", "CSS", "JavaScript"],
+  },
+  "soft_skills"  : ["Problem Solver 🧩", "Team Player 🤝",
+                    "Fast Learner ⚡", "Detail Oriented 🔍"],
+  "currently"    : "Building something awesome... 🚀",
+  "available"    : true, // Open for work! 💼
+};
 ```
 
 ---
 
+### ⚡ Fun Facts About Me
+
+| 🎯 | Detail |
+|----|--------|
+| 🌍 | Based in **Pakistan** |
+| 📱 | Built **20+ Production Apps** |
+| ☕ | Powered by **Coffee & Code** |
+| 🧠 | Love **Clean Architecture** |
+| 🎮 | Gamer when not coding |
+| 💙 | **Flutter** is my superpower |
+
 ## 🛠️ Tech Stack & Skills
 
-<div align="center">
+<div>
 
 ### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -106,18 +131,6 @@ class SaadSalman {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman78600&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=salman78600&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
