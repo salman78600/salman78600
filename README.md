@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Senior Flutter & Mobile Engineer
+### Senior Mobile Engineer · Flutter & Dart
 
 *Building production-grade mobile experiences for iOS & Android*
 
