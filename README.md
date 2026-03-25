@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Senior Flutter & Mobile Engineer · iOS & Android · 6+ Years
+### Senior Flutter & Mobile Engineer · 6+ Years
 
 *Building production-grade mobile experiences for iOS & Android*
 
