@@ -71,10 +71,10 @@ Tools & Workflow       Git · Figma · Postman · CI/CD · VS Code
 
 **Frontend**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
 **Tools & Workflow**
 
@@ -90,7 +90,6 @@ Tools & Workflow       Git · Figma · Postman · CI/CD · VS Code
 
 <div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=salman78600&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman78600&theme=github-dark-blue&hide_border=true" width="48%" />
 
 <br/><br/>
