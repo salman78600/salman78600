@@ -6,8 +6,6 @@
 
 *Building production-grade mobile experiences for iOS & Android*
 
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad107)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imsalman5873@gmail.com)
 
