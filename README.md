@@ -44,7 +44,7 @@ and a pixel-perfect UI that users love.
 
 ---
 
-```dart
+```javascript
 // My Developer DNA 🧬
 
 const developer = {
@@ -62,9 +62,9 @@ const developer = {
   soft_skills  : ["Problem Solver 🧩", "Team Player 🤝",
                   "Fast Learner ⚡", "Detail Oriented 🔍"],
   currently    : "Building something awesome... 🚀",
-  available    : true, // Open for work! 💼
+  available    : true,
 };
-```
+
 ---
 
 ### ⚡ Fun Facts About Me
