@@ -1,12 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=180&section=header&text=Saad%20Salman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Flutter%20%26%20Mobile%20Engineer&descAlignY=55&descSize=18&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=200&section=header&text=Saad%20Salman&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Senior%20Flutter%20%26%20Mobile%20Engineer&descAlignY=58&descSize=20&fontAlign=50" />
 
 </div>
 
 <br/>
 
 <div align="center">
+
+# Saad Salman
+### Senior Flutter & Mobile Engineer
+
+*Building production-grade mobile experiences for iOS & Android*
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad107)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imsalman5873@gmail.com)
@@ -19,11 +26,11 @@
 
 ## About
 
-Senior Mobile Engineer with **6+ years** of experience building production-grade applications for iOS and Android using Flutter. I specialize in scalable architecture, clean codebases, and delivering performant apps that solve real problems.
+Senior Mobile Engineer with **6+ years** of experience building production-grade applications for **iOS and Android** using Flutter. I specialize in scalable architecture, clean codebases, and delivering performant apps that solve real business problems.
 
-I've shipped **20+ applications** across industries including FinTech, HealthTech, E-Commerce, EdTech, and Real Estate — taking products from concept through deployment and beyond.
+I have shipped **20+ applications** across industries including **FinTech, HealthTech, E-Commerce, EdTech, and Real Estate** — taking products from concept through deployment and long-term maintenance.
 
-When backend work is needed, I extend into **Node.js** and **Python** to own the full solution.
+When backend work is required, I extend into **Node.js** and **Python** to own the full solution end-to-end.
 
 ---
 
@@ -35,7 +42,8 @@ State Management       BLoC · Riverpod · GetX · Provider
 Architecture           Clean Architecture · MVVM · MVC
 Backend                Node.js · Python · REST APIs · Firebase
 Database               Firestore · MongoDB · SQLite · Hive
-Tools                  Git · Figma · Postman · CI/CD
+Frontend               JavaScript · HTML · CSS
+Tools & Workflow       Git · Figma · Postman · CI/CD · VS Code
 ```
 
 ---
@@ -64,9 +72,17 @@ Tools                  Git · Figma · Postman · CI/CD
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 **Tools & Workflow**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -88,12 +104,28 @@ Tools                  Git · Figma · Postman · CI/CD
 
 ---
 
+## Experience Highlights
+
+| Domain | Applications Built |
+|--------|-------------------|
+| 💰 FinTech | Payment apps, Wallets, Trading platforms |
+| 💊 HealthTech | Doctor booking, Health tracking, Telemedicine |
+| 🛒 E-Commerce | Multi-vendor stores, Order tracking |
+| 🎓 EdTech | LMS platforms, Quiz & Assessment apps |
+| 🏠 Real Estate | Property listing, Virtual tours |
+
+---
+
 ## Let's Talk
 
-I'm open to senior roles, technical consulting, and meaningful freelance projects.
+I am open to **senior roles**, **technical consulting**, and **meaningful freelance projects**.
 
-**saad salman** · [LinkedIn](https://www.linkedin.com/in/saad107) · [imsalman5873@gmail.com](mailto:imsalman5873@gmail.com)
+<div align="center">
+
+**Saad Salman** · [LinkedIn](https://www.linkedin.com/in/saad107) · [imsalman5873@gmail.com](mailto:imsalman5873@gmail.com) · [GitHub](https://github.com/salman78600)
+
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer" />
