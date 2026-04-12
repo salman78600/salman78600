@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Senior Mobile Engineer
+### Senior Software Engineer
 
 *Building production-grade mobile experiences for iOS & Android*
 
@@ -16,18 +16,21 @@
 
 ## About
 
-6+ years delivering high-performance mobile applications with Flutter & Dart
-across iOS & Android — clean UI, scalable architecture, and real business impact.
+I’m a Software Engineer with 6+ years of experience building high-performance applications using Flutter & Dart across iOS and Android.
 
-End-to-end ownership from concept to App Store & Play Store launch.
-Deep expertise in animations, state management (Provider · BLoC),
-and scalable architectures built on Clean Architecture & MVVM principles.
+I focus on crafting clean, scalable, and maintainable architectures, following principles like Clean Architecture and MVVM. From pixel-perfect UI to smooth animations and efficient state management (Provider · BLoC), I build apps that not only look great but perform reliably in production.
 
-Back-end proficient in Node.js & Python — designing REST APIs
-that power fast, reliable, and production-ready mobile experiences.
+🚀 What I Do
+📱 Build cross-platform mobile apps (Flutter)
+🎯 Deliver end-to-end solutions — from idea to App Store & Play Store launch
+🧠 Design scalable architectures for long-term growth
+⚡ Develop robust REST APIs using Node.js & Python
+🌐 Work with modern JavaScript frameworks for full-stack integration
 
-Clean code. Clear communication. Consistent delivery.
-Full ownership — every project, every time.
+💡 Approach
+Clean code & best practices
+Clear communication
+Full ownership of every project
 
 ---
 
