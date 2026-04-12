@@ -21,16 +21,16 @@ I’m a Software Engineer with 6+ years of experience building high-performance 
 I focus on crafting clean, scalable, and maintainable architectures, following principles like Clean Architecture and MVVM. From pixel-perfect UI to smooth animations and efficient state management (Provider · BLoC), I build apps that not only look great but perform reliably in production.
 
 🚀 What I Do
-📱 Build cross-platform mobile apps (Flutter)
-🎯 Deliver end-to-end solutions — from idea to App Store & Play Store launch
-🧠 Design scalable architectures for long-term growth
-⚡ Develop robust REST APIs using Node.js & Python
-🌐 Work with modern JavaScript frameworks for full-stack integration
+- Build cross-platform mobile apps (Flutter)
+- Deliver end-to-end solutions — from idea to App Store & Play Store launch
+- Design scalable architectures for long-term growth
+- Develop robust REST APIs using Node.js & Python
+- Work with modern JavaScript frameworks for full-stack integration
 
 💡 Approach
-Clean code & best practices
-Clear communication
-Full ownership of every project
+- Clean code & best practices
+- Clear communication
+- Full ownership of every project
 
 ---
 
