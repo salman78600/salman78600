@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Saad Salman
 
-### Senior Software Developer
+### Senior Software Engineer
 
 *Building scalable web & mobile applications with modern JavaScript Frameworks, Node.js and Flutter — leveraging AI tools for productivity and innovation*
 
