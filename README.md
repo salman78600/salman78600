@@ -36,10 +36,6 @@ I focus on **clean, scalable architecture**, applying principles like **Clean Ar
 
 ---
 
-## 🧠 Core Expertise
-
----
-
 ## 🛠 Tech Stack
 
 ### 💻 Web
