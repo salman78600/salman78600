@@ -16,17 +16,16 @@
 
 ## 🚀 About Me
 
-I’m a **Senior Full-Stack Software Engineer with 6+ years of experience** building high-performance applications across **mobile and web platforms**.
+I’m a Senior Flutter Engineer with 6+ years of experience building high-performance mobile applications.
 
-I specialize in **JavaScript/TypeScript,**, **Node.js backend systems** and **Flutter (iOS & Android)**, delivering **end-to-end solutions** from idea to production.
+I specialize in Flutter (iOS & Android), delivering production-grade cross-platform apps, supported by solid experience in JavaScript/TypeScript and Node.js for end-to-end development.
 
-I focus on **clean, scalable architecture**, applying principles like **Clean Architecture and MVVM**, while also leveraging **AI tools to accelerate development, debugging, and problem-solving**.
+I focus on clean, scalable architecture, applying principles like Clean Architecture and MVVM, and leverage modern tools—including AI—to accelerate development, debugging, and problem-solving.
 
 ---
 
 ## 💼 What I Do
 
-- 🌐 Build modern web applications using **JavaScript frameworks (Angular)**
 - 📱 Build cross-platform mobile apps using **Flutter**
 - 🌐 Develop scalable backend systems with **Node.js & Python**
 - 🔗 Design and integrate **REST APIs**
@@ -38,12 +37,6 @@ I focus on **clean, scalable architecture**, applying principles like **Clean Ar
 
 ## 🛠 Tech Stack
 
-### 💻 Web
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -54,6 +47,13 @@ I focus on **clean, scalable architecture**, applying principles like **Clean Ar
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### 💻 Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
 
 ### 🗄 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
