@@ -4,7 +4,7 @@
 
 ## 🚀 Senior Full Stack Software Engineer
 
-*Building scalable web, mobile, backend, and AI-powered applications using PHP, modern JavaScript/TypeScript, and Flutter*
+*Building scalable web, mobile, backend, and AI-powered applications using PHP, Laravel, modern JavaScript/TypeScript, and Flutter*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad107)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imsalman5873@gmail.com)
@@ -27,7 +27,7 @@ Strong focus on clean architecture, scalability, performance, and maintainabilit
 ## 💼 What I Do
 
 - 🌐 Full Stack Web Development (Frontend + Backend)
-- ⚙️ Design & build REST APIs and microservices with Node.js
+- ⚙️ Design & build REST APIs and microservices with PHP
 - 📱 Cross-platform mobile development using Flutter
 - 🧠 System architecture (Clean Architecture, MVC, MVVM)
 - 🤖 AI-assisted development and automation integration
