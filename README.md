@@ -4,7 +4,7 @@
 
 ## 🚀 Senior Full Stack Software Engineer
 
-*Building scalable web, mobile, backend, and AI-powered applications using modern JavaScript/TypeScript, Node.js, and Flutter*
+*Building scalable web, mobile, backend, and AI-powered applications using PHP, modern JavaScript/TypeScript, and Flutter*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad107)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imsalman5873@gmail.com)
@@ -18,7 +18,7 @@
 
 Senior Full Stack Software Engineer with 6+ years of experience building scalable, production-grade web and mobile applications.
 
-Specialized in JavaScript/TypeScript, Node.js, Angular, React, and Flutter, with expertise in designing and delivering full-stack systems including frontend applications, backend APIs, microservices, mobile apps, and cloud-based architectures.
+Specialized in PHP, Laravel, JavaScript/Typescript, React, and Flutter, with expertise in designing and delivering full-stack systems including frontend applications, backend APIs, microservices, mobile apps, and cloud-based architectures.
 
 Strong focus on clean architecture, scalability, performance, and maintainability, with practical experience using AI tools to enhance development speed, debugging, and system design quality.
 
@@ -38,13 +38,13 @@ Strong focus on clean architecture, scalability, performance, and maintainabilit
 ## 🛠 Tech Stack
 
 ### 💻 Languages & Core
-- JavaScript, TypeScript, Python, Dart
+- PHP, JavaScript, TypeScript, Python
 
 ### 🌐 Frontend
 - Angular, React, HTML5, CSS3
 
 ### ⚙️ Backend
-- Node.js, Express.js, REST APIs, Microservices
+- PHP, Laravel, REST APIs, Microservices
 
 ### 📱 Mobile
 - Flutter (iOS & Android)
