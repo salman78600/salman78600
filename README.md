@@ -4,7 +4,7 @@
 
 ## 🚀 Senior Full Stack Software Engineer
 
-*Building scalable web, mobile, backend, and AI-powered applications using PHP, Laravel, modern JavaScript/TypeScript, and Flutter*
+*Building scalable web, mobile, backend, and AI-powered applications using modern JavaScript/TypeScript, Node.js and Flutter*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad107)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imsalman5873@gmail.com)
@@ -18,7 +18,7 @@
 
 Senior Full Stack Software Engineer with 6+ years of experience building scalable, production-grade web and mobile applications.
 
-Specialized in PHP, Laravel, JavaScript/Typescript, React, and Flutter, with expertise in designing and delivering full-stack systems including frontend applications, backend APIs, microservices, mobile apps, and cloud-based architectures.
+Specialized in JavaScript/Typescript, React, Node.js and Flutter, with expertise in designing and delivering full-stack systems including frontend applications, backend APIs, microservices, mobile apps, and cloud-based architectures.
 
 Strong focus on clean architecture, scalability, performance, and maintainability, with practical experience using AI tools to enhance development speed, debugging, and system design quality.
 
@@ -27,7 +27,7 @@ Strong focus on clean architecture, scalability, performance, and maintainabilit
 ## 💼 What I Do
 
 - 🌐 Full Stack Web Development (Frontend + Backend)
-- ⚙️ Design & build REST APIs and microservices with PHP
+- ⚙️ Design & build REST APIs and microservices with Node.js
 - 📱 Cross-platform mobile development using Flutter
 - 🧠 System architecture (Clean Architecture, MVC, MVVM)
 - 🤖 AI-assisted development and automation integration
@@ -38,13 +38,13 @@ Strong focus on clean architecture, scalability, performance, and maintainabilit
 ## 🛠 Tech Stack
 
 ### 💻 Languages & Core
-- PHP, JavaScript, TypeScript, Python
+- JavaScript, TypeScript, Python, Dart
 
 ### 🌐 Frontend
 - Angular, React, HTML5, CSS3
 
 ### ⚙️ Backend
-- PHP, Laravel, REST APIs, Microservices
+- Node.js, REST APIs, Microservices
 
 ### 📱 Mobile
 - Flutter (iOS & Android)
